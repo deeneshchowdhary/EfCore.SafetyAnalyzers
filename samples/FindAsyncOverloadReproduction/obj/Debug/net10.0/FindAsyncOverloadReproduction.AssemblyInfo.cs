@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindAsyncOverloadReproduction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7787e3472cde2654e54693d7bdfb76a3071763f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f56074b010f40cf33e0b400a7f7c742be70441b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindAsyncOverloadReproduction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindAsyncOverloadReproduction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
